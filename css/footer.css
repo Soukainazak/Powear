@@ -1,0 +1,16 @@
+
+
+#footer li {
+    font-size: small;
+    color: black;
+
+}
+
+#myfooter{
+    font-size: small;
+    
+}
+
+#myfooter ul {
+    display: inline-block;
+}

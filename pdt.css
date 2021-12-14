@@ -1,0 +1,9 @@
+#mydiv{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: none;
+    display: block;
+    max-height: 100%;
+    max-width: 100%;
+}
